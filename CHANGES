@@ -1,0 +1,12 @@
+[2014-10-16] v1.1.0
+    - Updated GUI functionality for picking custom colors based on work by Mumfrey.
+    - Fix for recognizing additional potion types added by external mods.
+
+[2014-10-02] v1.0.1
+    - Fix for compatibility with Forge and deobfuscated clients.
+
+[2014-09-30] v1.0.0
+    - Configuration panel now allows customization of potion colors.
+
+[2014-09-29] v0.9.0
+    - Implemented all initially planned functionality.

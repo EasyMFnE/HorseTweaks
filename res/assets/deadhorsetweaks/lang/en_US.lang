@@ -1,0 +1,13 @@
+#############################################################
+# Language file for the HorseTweaks mod by Eric Hildebrand. #
+# Language: en_US (American English)                        #
+#############################################################
+
+horsetweaks.configpanel.title=%s Settings
+horsetweaks.configpanel.canweararmor=Allow all horse types to be equipped with armor.
+horsetweaks.configpanel.renderarmorlayer=Allow all horse types to be rendered with armor.
+horsetweaks.configpanel.drawhorsestats=Show horse statistics in the inventory screen.
+
+horsetweaks.horsestats.jumpheight=Jump: %sm
+horsetweaks.horsestats.maxspeed=Speed: %sm/s
+horsetweaks.horsestats.maxhealth=Health: %s/%s
